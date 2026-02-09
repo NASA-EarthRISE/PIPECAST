@@ -4,6 +4,12 @@
 
 A Python library for weather forecast analysis, Areas of Interest (AOI) generation, ensemble probability products, and population risk assessment.
 
+## Staged Enhanced Datasources
+
+- Mayer, T. (2026). PIPECAST: Pipeline Integrated Prediction & Environmental Climate Analysis using Satellite Tracking [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18497756
+- National_block_groups_with_pop.zip
+- National_Huc_12_preprocessed.zip
+
 ## Features
 
 🌦️ **Multi-Dataset Support**
