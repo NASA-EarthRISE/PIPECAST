@@ -39,7 +39,7 @@ A Python library for weather forecast analysis, Areas of Interest (AOI) generati
 
 ## Installation
 
-### From PyPI (Recommended)
+### From PyPI [pipecast-weather 0.2.0](https://pypi.org/project/pipecast-weather/0.2.0/) (Recommended)
 ```bash
 pip install pipecast-weather
 ```
