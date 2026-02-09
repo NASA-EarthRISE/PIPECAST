@@ -1,0 +1,6 @@
+include README.md
+include QUICKSTART_COLAB.md
+include LICENSE
+include requirements.txt
+recursive-include examples *.py
+recursive-include pipecast *.py
