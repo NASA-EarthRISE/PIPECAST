@@ -1,5 +1,9 @@
 # PIPECAST Weather Forecast Analysis
 
+[![Python: 3.x](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![EarthRISE: Development](https://img.shields.io/badge/EarthRISE-Development-b50000?labelColor=191f4c)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/develop)
+
 **Pipeline Integrated Prediction & Environmental Climate Analysis using Satellite Tracking**
 
 A Python library for weather forecast analysis, Areas of Interest (AOI) generation, ensemble probability products, and population risk assessment.
